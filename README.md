@@ -1,13 +1,13 @@
-<h1> Hey there! I'm Raneen.</h1>
+#<h1> Hey there! I'm Raneen.</h1>
 <img align="right" alt="GIF" src="https://github.com/raneenmahmoud/raneenmahmoud/blob/main/hello.gif" width="500"/>
 
-<h2> 👨🏻‍💻 About Me </h2>
+##<h2> 👨🏻‍💻 About Me </h2>
 - 🔭 &nbsp; I’m currently a trainee in ITI track Open Source 9 Month internship.
 - 🤔 &nbsp; Exploring new technologies for development.
 - 🎓 &nbsp; Studying Full-Stack Web development technologies.
 - 🌱 &nbsp; Enthusiast in Linux beside Web-development.
 
-<h2>🛠 Tech Stack</h2>
+##<h2>🛠 Tech Stack</h2>
 - 💻 &nbsp; NodeJS | Laravel 
 - 🌐 &nbsp; JavaScript | PHP | C | C++ | Ruby | Go-Lang | Java | Python
 - 🌐 &nbsp; HTML5 | CSS3 | Bootstrap 
