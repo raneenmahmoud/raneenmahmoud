@@ -1,23 +1,23 @@
-#<h1> Hey there! I'm Raneen.</h1>
-<img align="right" alt="GIF" src="https://github.com/raneenmahmoud/raneenmahmoud/blob/main/hello.gif" width="500"/>
+# Hey there! I'm Raneen.
+<img align="right" alt="GIF" src="https://github.com/raneenmahmoud/raneenmahmoud/blob/main/hello.gif" width="400"/>
 
-##<h2> 👨🏻‍💻 About Me </h2>
+## 👨🏻‍💻 About Me 
 - 🔭 &nbsp; I’m currently a trainee in ITI track Open Source 9 Month internship.
 - 🤔 &nbsp; Exploring new technologies for development.
 - 🎓 &nbsp; Studying Full-Stack Web development technologies.
 - 🌱 &nbsp; Enthusiast in Linux beside Web-development.
 
-##<h2>🛠 Tech Stack</h2>
+## 🛠 Tech Stack
 - 💻 &nbsp; NodeJS | Laravel 
 - 🌐 &nbsp; JavaScript | PHP | C | C++ | Ruby | Go-Lang | Java | Python
 - 🌐 &nbsp; HTML5 | CSS3 | Bootstrap 
 - 📱 &nbsp; Flutter | Dart
 - 🛢 &nbsp; MySQL | MariaDB | Oracle
-- 🔧 &nbsp; Git | Visual Studio code
+- 🔧 &nbsp; Git | Visual Studio code | Android Studio
 - 🎨 &nbsp; Adobe XD | Illustrator | Figma | Blender | Matlab
 
 ### :mortar_board: Graduated:
-Alexandria University, Faculty of science, Computer Science Department.
+Alexandria University, Faculty of Science, Computer Science Department.
 
 ### :star: Some fun facts!
 - I'm a big fan of reading novels and books 📖
