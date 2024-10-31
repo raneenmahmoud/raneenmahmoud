@@ -8,11 +8,11 @@
 - 🌱 &nbsp; Enthusiast in Linux beside Web-development.
 
 ## 🛠 Tech Stack
-- 💻 &nbsp; NodeJS | Laravel 
-- 🌐 &nbsp; JavaScript | PHP | C | C++ | Ruby | Go-Lang | Java | Python
+- 💻 &nbsp; Django | NodeJS | Laravel 
+- 🌐 &nbsp; Java | Python | JavaScript | PHP | C | C++ | Ruby | Go-Lang 
 - 🌐 &nbsp; HTML5 | CSS3 | Bootstrap 
 - 📱 &nbsp; Flutter | Dart
-- 🛢 &nbsp; MySQL | MariaDB | Oracle
+- 🛢 &nbsp; MySQL | Postgresql | Oracle | MariaDB
 - 🔧 &nbsp; Git | Visual Studio code | Android Studio
 - 🎨 &nbsp; Adobe XD | Illustrator | Figma | Blender | Matlab
 
