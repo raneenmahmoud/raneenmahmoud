@@ -5,8 +5,8 @@
 - 🔭 &nbsp; I’m currently a software engineer.
 - 🤔 &nbsp; Exploring new technologies for development.
 - 🎓 &nbsp; Graduated  Open Source - Professional Training Program (9 Months)-Information Technology institute (ITI).
-- 🎓 &nbsp; Graduated computer sceince field, facualty of science.
 - 🎓 &nbsp; Studying Full-Stack Web development technologies.
+- 🎓 &nbsp; Graduated computer sceince field, facualty of science.
 - 🌱 &nbsp; Enthusiast in Linux beside Web-development.
 
 ## 🛠 Tech Stack
