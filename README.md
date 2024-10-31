@@ -10,7 +10,7 @@
 - 🌱 &nbsp; Enthusiast in Linux beside Web-development.
 
 ## 🛠 Tech Stack
-- 💻 &nbsp; Django | NodeJS | Laravel 
+- 💻 &nbsp; Django | Odoo | NodeJS | Laravel 
 - 🌐 &nbsp; Java | Python | JavaScript | PHP | C | C++ | Ruby | Go-Lang 
 - 🌐 &nbsp; HTML5 | CSS3 | Bootstrap 
 - 📱 &nbsp; Flutter | Dart
