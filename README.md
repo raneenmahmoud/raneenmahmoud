@@ -2,8 +2,10 @@
 <img align="right" alt="GIF" src="https://github.com/raneenmahmoud/raneenmahmoud/blob/main/hello.gif" width="400"/>
 
 ## 👨🏻‍💻 About Me 
-- 🔭 &nbsp; I’m currently a trainee in ITI track Open Source 9 Month internship.
+- 🔭 &nbsp; I’m currently a software engineer.
 - 🤔 &nbsp; Exploring new technologies for development.
+- 🎓 &nbsp; Graduated  Open Source - Professional Training Program (9 Months)-Information Technology institute (ITI).
+- 🎓 &nbsp; Graduated computer sceince field, facualty of science.
 - 🎓 &nbsp; Studying Full-Stack Web development technologies.
 - 🌱 &nbsp; Enthusiast in Linux beside Web-development.
 
